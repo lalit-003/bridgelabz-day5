@@ -2,7 +2,8 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class EmailUC3 {
+public class ClearAllEmailsUC9 {
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the email address");
